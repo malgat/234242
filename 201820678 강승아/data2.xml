@@ -1,0 +1,16 @@
+<root>
+    <elements>
+        <item>
+            <addr> 부산광역시 부산진구 양정동 양지로 54 </addr>
+            <title>동의과학대학교</title>
+        </item>
+        <item>
+            <addr> 부산광역시 부산진구 범전동 시민공원로 73 </addr>
+            <title>부산시민공원</title>
+        </item>
+        <item>
+            <addr> 부산광역시 부산진구 전포동 전포2동 중앙대로 818 </addr>
+            <title>송상현광장</title>
+        </item>
+    </elements>
+</root>
